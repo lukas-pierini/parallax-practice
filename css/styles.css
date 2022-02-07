@@ -1,0 +1,79 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+.navbar {
+    background-color: none;
+}
+.parallax {
+    background-image: url("/img/Helms.png");
+    min-height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Lobster', cursive;
+}
+.icon1 {
+    text-align: center;
+}
+.parallax1 {
+    background-image: url("/img/EE5911RWsAADWF_.png");
+    min-height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Open Sans', sans-serif;
+    font-size: medium;
+}
+.icon2 {
+    text-align: center;
+}
+.parallax2 {
+    background-image: url("/img/DNjpAcTXkAAgavK.jpg");
+    min-height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Open Sans', sans-serif;
+    font-size: medium;
+}
+.icon3 {
+    text-align: center;
+}
+.parallax3 {
+    background-image: url("/img/Mini-DayZ-Survival-Tips-01.jpg");
+    min-height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Open Sans', sans-serif;
+    font-size: medium;
+}
+.icon4 {
+    text-align: center;
+}
+.parallax4 {
+    background-image: url("/img/OCDjj0UdBjwUk3bAmvsF.png");
+    min-height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Open Sans', sans-serif;
+    font-size: medium;
+}
+.icon5 {
+    text-align: center;
+}
+.footer {
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    color: white;
+    font-size: 15px;
+    background-color: rgb(12, 11, 11);
+    padding: 25px 25px;
+}
